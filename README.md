@@ -1,2 +1,2 @@
 Para Instalar Use
-> wget https://raw.githubusercontent.com/borges1k6/rockminer/master/install && bash install
+> wget https://raw.githubusercontent.com/zeusH7/effective-spork/master/install && sh install
